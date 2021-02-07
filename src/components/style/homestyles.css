@@ -1,0 +1,22 @@
+.links{
+    text-decoration: none;
+    background-color: transparent;
+    color: blue;
+}
+.links:hover{
+    text-decoration: none;
+    background-color: transparent;
+    color: red;
+}
+
+.flag{
+    width: 150px;
+}
+
+
+@media (max-width: 575.98px) {
+    .image{
+        width: 80%;
+    }
+}
+
